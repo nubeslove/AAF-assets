@@ -1,0 +1,11 @@
+AAF LANCER Tactical Kit — 2026-09-26
+
+47 original procedural tactical models (frame-*, unit-*, terrain-*): CC0.
+These are generic tactical proxies, not official LANCER sculpts.
+LANCER names and original setting remain the property of their respective owners.
+
+14 kenney-* models: Kenney, City Kit Industrial 2.0, CC0.
+https://kenney.nl/assets/city-kit-industrial
+See Kenney-License.txt. External palette texture was embedded into GLB.
+
+CC0: https://creativecommons.org/publicdomain/zero/1.0/

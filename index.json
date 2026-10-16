@@ -1,0 +1,472 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-16T17:09:23.136Z",
+  "packs": [
+    {
+      "id": "lancer/lancer-kit",
+      "title": "LANCER 战术场景素材",
+      "rules": [
+        "lancer"
+      ],
+      "license": "CC0",
+      "version": 1,
+      "target": "assets/3d/lancer-kit",
+      "bytes": 15339373,
+      "files": [
+        {
+          "path": "CREDITS.txt",
+          "size": 494,
+          "sha256": "1bcae684965eac00a7641fbfc0626cac0ccb6af4b9da0fa910cb820cc1a18814"
+        },
+        {
+          "path": "frame-balor.glb",
+          "size": 60960,
+          "sha256": "0be641a8c549b33f40e069dc7a9edc2d865b1910342a98fcd54d2df08101ec70"
+        },
+        {
+          "path": "frame-barbarossa.glb",
+          "size": 49804,
+          "sha256": "b0d4a9ef1d85a70bd580ae7a4beb66cbcac8525e6ab63d2839b5c9a552c8fa97"
+        },
+        {
+          "path": "frame-black-witch.glb",
+          "size": 54044,
+          "sha256": "0e0e10556aee93baf8a3c125766a7bcc34dac55d47367f56d87af840246653c6"
+        },
+        {
+          "path": "frame-blackbeard.glb",
+          "size": 49824,
+          "sha256": "be39cc91cd343e4c60da0bd49d7ce0b10014a90147887cbfbf9c8c5b60526a6a"
+        },
+        {
+          "path": "frame-deaths-head.glb",
+          "size": 50940,
+          "sha256": "cc930088c032221b445c8c822b16e4be6b63338732f8d1db27e0a9c95a2f5aef"
+        },
+        {
+          "path": "frame-drake.glb",
+          "size": 53288,
+          "sha256": "5449d6004f11d53836d32f93667cb45003b9545dd0f1585b1d0e128762e66fe0"
+        },
+        {
+          "path": "frame-dusk-wing.glb",
+          "size": 54040,
+          "sha256": "7d2bf9227720ed3b834fe5af923be1eb10addc13e2151435b1794b33788ce458"
+        },
+        {
+          "path": "frame-everest.glb",
+          "size": 50952,
+          "sha256": "58e7f85ea188079ac2e27b88eccb5d08f5bb098de85d9a176168aeb261bf4640"
+        },
+        {
+          "path": "frame-genghis.glb",
+          "size": 55944,
+          "sha256": "d6c848cae9547ae9df90cd6c636b9f59c5bb27b31be70382e5b068ef4924d311"
+        },
+        {
+          "path": "frame-goblin.glb",
+          "size": 54044,
+          "sha256": "fea98009a4bfccc3fc01d1ebc19537e090d2220db095c114a22ebc0ca6828375"
+        },
+        {
+          "path": "frame-gorgon.glb",
+          "size": 60964,
+          "sha256": "16adc6da91e3ae0a1fca2fa3fa1ae51ab3967ba9bf8c3575c5dbef3a3c406a54"
+        },
+        {
+          "path": "frame-hydra.glb",
+          "size": 55588,
+          "sha256": "f021686a3e14ef00c4025681c6f56d32f371a10545bc2bf2127704e7165b4c57"
+        },
+        {
+          "path": "frame-iskander.glb",
+          "size": 63288,
+          "sha256": "9d8806090fe876b7c8d19b70cf614569c189c3a3b93f281b1d310ce23518eeb3"
+        },
+        {
+          "path": "frame-lancaster.glb",
+          "size": 62544,
+          "sha256": "f6b2dbe3c4dfcca4b1fdedfc44c4c497db7388cb1645e48201d90c4235545c6d"
+        },
+        {
+          "path": "frame-manticore.glb",
+          "size": 53268,
+          "sha256": "da812066478b91f0ce2a9a41a5818def7f0ce9b8fd26dd9e274f59a462d3fc4a"
+        },
+        {
+          "path": "frame-metalmark.glb",
+          "size": 49436,
+          "sha256": "ac5a2befef244d6e3efc4ec618d794ed7de24642f2672578b060cfb96959d0d4"
+        },
+        {
+          "path": "frame-minotaur.glb",
+          "size": 50968,
+          "sha256": "513c2af2f1b37e097cedfcd220b374027d4413e0c9f798e82c8416e8b7d17dfb"
+        },
+        {
+          "path": "frame-monarch.glb",
+          "size": 63280,
+          "sha256": "fb90484b6101931bb555cb37a4572e4b2e06d8db51b3b81a764e450514668fa8"
+        },
+        {
+          "path": "frame-mourning-cloak.glb",
+          "size": 49444,
+          "sha256": "5d2c31ac6efbe7c3754eeecda693f75648ca02b2680d268c4423ca17143ea428"
+        },
+        {
+          "path": "frame-napoleon.glb",
+          "size": 53288,
+          "sha256": "544cbab669c365072526a6743b460a9179c4f572ca99f454c908899836926fb0"
+        },
+        {
+          "path": "frame-nelson.glb",
+          "size": 49436,
+          "sha256": "24997121f59414f16b14a6684fd74f937ed2e4a77d9b424fb7495994c15e6307"
+        },
+        {
+          "path": "frame-pegasus.glb",
+          "size": 50932,
+          "sha256": "acc7770b78f6ddde2e70f44a1c7052fcccb9097d16f3a4e9c3a9ca7fa240e8fc"
+        },
+        {
+          "path": "frame-raleigh.glb",
+          "size": 56312,
+          "sha256": "98862aaf05611db917ca69f1561c8aea1fa70c36d9ab64ee8231a1c79d3220a7"
+        },
+        {
+          "path": "frame-saladin.glb",
+          "size": 53288,
+          "sha256": "0057a9dfa7f2a369c85a6983ad1cd12f9017d381975a0eca5161bfd843ba1f1d"
+        },
+        {
+          "path": "frame-sherman.glb",
+          "size": 55176,
+          "sha256": "a432a846f2415dca35841593c06d14151b1269c768a72281c77f2f283379cd26"
+        },
+        {
+          "path": "frame-swallowtail.glb",
+          "size": 54044,
+          "sha256": "2a23a54f4e9c3986c140ba3b954c633f7757701fc306d9e10a1b06583365927f"
+        },
+        {
+          "path": "frame-tokugawa.glb",
+          "size": 49432,
+          "sha256": "19b152a63a1907053dac870fe05d54d8a06a8c6a7fbc1da7623ae7cb0d44957f"
+        },
+        {
+          "path": "frame-tortuga.glb",
+          "size": 53292,
+          "sha256": "e948f85f3314c2e241a262eadeb66602896b066bc65c45c6095f3868e07c7360"
+        },
+        {
+          "path": "frame-vlad.glb",
+          "size": 53264,
+          "sha256": "c72a4fcce65b9470f3dc84bf717b65e153dff2634012938b5a7b0f737f17848d"
+        },
+        {
+          "path": "industrial-barrier.glb",
+          "size": 675888,
+          "sha256": "7c7c36aa26bc03169e860e4caf0f338d0b377898e3dd28f5c00bab2256b85022"
+        },
+        {
+          "path": "industrial-boulder-low.glb",
+          "size": 283836,
+          "sha256": "f3c78b2fe0638126e91f5e145eda9fc35b07ecb38a609aa4b1b90fe22b50df3b"
+        },
+        {
+          "path": "industrial-boulder-tall.glb",
+          "size": 283932,
+          "sha256": "f9278ee2047ce0b5646432ded12c0bc01eaab649d9d74be746bf222efeb936dc"
+        },
+        {
+          "path": "industrial-boulder.glb",
+          "size": 284212,
+          "sha256": "75082bf7ed37aa92a8b37ca5301ac11048cb0c983aacb9bfa4b17ac66d04621c"
+        },
+        {
+          "path": "industrial-bunker.glb",
+          "size": 975208,
+          "sha256": "3750384b23e1d9b9d24e9e80e78724b1ae0e32501ed2914aa2313f6cf21f8381"
+        },
+        {
+          "path": "industrial-container.glb",
+          "size": 616436,
+          "sha256": "2ba9e1aad4a900e5ee2311fff6b06f024caaf7a172597121b0c973aee08e61c9"
+        },
+        {
+          "path": "industrial-facade.glb",
+          "size": 765424,
+          "sha256": "ea6d52dd710dc24f22a57dde712927c73d214bb8c62f6bc118010c11b30b0eed"
+        },
+        {
+          "path": "industrial-generator.glb",
+          "size": 873740,
+          "sha256": "6b791b3be2d83d9232d4e07cfec4c95fd41f9805321c4db6e75f105ff0a60011"
+        },
+        {
+          "path": "industrial-pipes.glb",
+          "size": 773844,
+          "sha256": "a52b8984df3c2864c525fc8f3a9a40baa2a1c558a372966a4288ab2bb33a235c"
+        },
+        {
+          "path": "industrial-rubble.glb",
+          "size": 737840,
+          "sha256": "62592558b9aeaca7722f31792230aecba60086e39ab5bf4513d27a4851baccc9"
+        },
+        {
+          "path": "industrial-tank.glb",
+          "size": 798992,
+          "sha256": "bc902144bf65bdcf342dbbfee4b18c6d6e536b6c6bc7b591f2b4c88b67f516ed"
+        },
+        {
+          "path": "industrial-watchtower.glb",
+          "size": 771920,
+          "sha256": "cd762121807969d7d4157a7f81f4e15406b136d62f68948f4ae8fb4cb0579c54"
+        },
+        {
+          "path": "kenney-building-a.glb",
+          "size": 189360,
+          "sha256": "a42daaf0259827c00d70be8c2a11516ef9838dd86e32606bc9d7015ae5ae06a8"
+        },
+        {
+          "path": "kenney-building-b.glb",
+          "size": 224080,
+          "sha256": "e95a6c71123bd60629f178e1102c2e9e712780e2ecca55b597f53954310ba615"
+        },
+        {
+          "path": "kenney-building-c.glb",
+          "size": 187888,
+          "sha256": "bd872545755cdc8978c9d2d772257eebf39a4fae5de5ab24e9f2d0a9a717d66e"
+        },
+        {
+          "path": "kenney-building-d.glb",
+          "size": 112812,
+          "sha256": "a078f11ad92735b95c712c9276648a1a9e3aaf75d0926f6d88db6d8cb3f7d5a9"
+        },
+        {
+          "path": "kenney-building-e.glb",
+          "size": 141440,
+          "sha256": "881c7fd63ff67c734a3b56e0d0a3d8c360fb852ff313f85b6318e69f65c9b8c7"
+        },
+        {
+          "path": "kenney-building-f.glb",
+          "size": 146960,
+          "sha256": "494d8ad015d215f86826cff6421271363c7e55e28f13c0fac6b38cc6980759a1"
+        },
+        {
+          "path": "kenney-building-g.glb",
+          "size": 118984,
+          "sha256": "3510e317ace7bab0a66b08c20998337abfcce69af404cc667437bca3005f7e31"
+        },
+        {
+          "path": "kenney-building-h.glb",
+          "size": 75684,
+          "sha256": "69aed97c7712171e72dca75e122ec3dfecf4954378448f662442c22a5d68c8e0"
+        },
+        {
+          "path": "kenney-chimney-large.glb",
+          "size": 32972,
+          "sha256": "3b473f350dc8f5438e952aca74cd3222e98bb1ba20f9d77b4238274e8e04bc77"
+        },
+        {
+          "path": "kenney-detail-tank.glb",
+          "size": 43476,
+          "sha256": "fecfd00a78dff3a33c49d11832341e6376ea63b98e22b067c7a74d2e6780de1a"
+        },
+        {
+          "path": "Kenney-License.txt",
+          "size": 708,
+          "sha256": "60a8c5c31191256ec9779dc18745dea6d69c46f4b29703459ce064c1765a59ea"
+        },
+        {
+          "path": "kenney-shipping-container-a.glb",
+          "size": 48664,
+          "sha256": "cbbcd1b8da431a4674e38aee2e07493355eff8e7fa760564d0f15b45bcd82248"
+        },
+        {
+          "path": "kenney-solar-panel-landscape.glb",
+          "size": 33816,
+          "sha256": "447524fab3429b5c23f33df50fa1eb6ae3cf6c3f501adb3d879b11d7b03216ca"
+        },
+        {
+          "path": "kenney-water-tower.glb",
+          "size": 105876,
+          "sha256": "9f28ffec623daa318ef024c02069611db2e17fc7f637fd12249823f89790fef1"
+        },
+        {
+          "path": "kenney-windmill.glb",
+          "size": 58316,
+          "sha256": "9d24aeeea4504e7e8262266389581e2f78f4ceacb3469763adb33d4956858f98"
+        },
+        {
+          "path": "LICENSE.md",
+          "size": 5907,
+          "sha256": "f1184fc0305410748035ea6bb3fe343bc610952b0618615a6e0024118e9e413e"
+        },
+        {
+          "path": "terrain-barricade.glb",
+          "size": 13308,
+          "sha256": "d7de3be28600d87231bf21c1faff959e3804598b652c67f8e442ede8c95ea9b9"
+        },
+        {
+          "path": "terrain-beacon.glb",
+          "size": 13328,
+          "sha256": "2cfd834c21f94887523bc4b7c9fee8a35fc0d657a0efa4131600093582e5ea9a"
+        },
+        {
+          "path": "terrain-bridge-folded.glb",
+          "size": 1227728,
+          "sha256": "de954c76680f244ac64ef5e6158a78720464fb2815bc168f81415e35f97f86fd"
+        },
+        {
+          "path": "terrain-bridge.glb",
+          "size": 1201192,
+          "sha256": "20ccd54469321617a248686611b3a183d4d53dea4645b3e425a67837b179e2ac"
+        },
+        {
+          "path": "terrain-crate.glb",
+          "size": 7524,
+          "sha256": "08a4a2b2f2e46d260472ee9fbbe76261ccb5e9a738c43b7d66ec9f9dd776acd1"
+        },
+        {
+          "path": "terrain-crystal.glb",
+          "size": 10016,
+          "sha256": "d1075abb6bb18ef2772b1aaf80d557624a50afa0332da1ea169d18dc8b0ceafb"
+        },
+        {
+          "path": "terrain-door-open.glb",
+          "size": 492196,
+          "sha256": "39c891995babe922b984a9db2999702d2c53383feece86131e1245b3068b8205"
+        },
+        {
+          "path": "terrain-door.glb",
+          "size": 548812,
+          "sha256": "20500e77f5d62a0553a4b3fb9ec71e116f9850b2e1affacb478c185b21e1ccf4"
+        },
+        {
+          "path": "terrain-lever.glb",
+          "size": 487020,
+          "sha256": "460b4d57cb392687d401c752d95e7aba04bb824803267f7c0300c646755db7ce"
+        },
+        {
+          "path": "terrain-pipe.glb",
+          "size": 12492,
+          "sha256": "f740fcf41fd4b769dd4ea250e1fb37630643bcd1a69cf92a71f40361eb239c9a"
+        },
+        {
+          "path": "terrain-platform.glb",
+          "size": 7528,
+          "sha256": "17bc959b429ff3f52b43ef805c3d4236b7194183a3cb63556571c5c45069fc2b"
+        },
+        {
+          "path": "terrain-ramp.glb",
+          "size": 10612,
+          "sha256": "f5b21563cb6de245ba78aa3ee60b48f5461d838e61fc853c79fae083f1cb78ed"
+        },
+        {
+          "path": "terrain-rock.glb",
+          "size": 18692,
+          "sha256": "3d5de95b7ddfad3806a628b675f7e184de1a413541e0d5603268489e26cfa46f"
+        },
+        {
+          "path": "terrain-stairs.glb",
+          "size": 20460,
+          "sha256": "6043deef82e6295b4a82b5de2e04e129e97232ce2ce60c3b5d36ce9c9ed78320"
+        },
+        {
+          "path": "terrain-tree.glb",
+          "size": 9992,
+          "sha256": "a61484b688585016b90fce6ab341bea0d0d608f1890af9b63c0a4143afaeee4e"
+        },
+        {
+          "path": "terrain-wall.glb",
+          "size": 7528,
+          "sha256": "b6f5af6507100f4175a53ed251b36067e8b40776d3eb36e34197dc69ee2d52a7"
+        },
+        {
+          "path": "unit-artillery.glb",
+          "size": 49784,
+          "sha256": "6ab55cb605c99ac1a63b022e00749b6a42bcaa734fe1f511a3794f94ece28c8c"
+        },
+        {
+          "path": "unit-drone.glb",
+          "size": 46008,
+          "sha256": "49be82d6f83fe70f4c705ce2007d68c4cffed52a903bda4e0ea69bd81f8f47b2"
+        },
+        {
+          "path": "unit-heavy.glb",
+          "size": 50948,
+          "sha256": "a2274d791d1c27126a7b02cf8b7e2e17c97da01c7a117e11879b7fac53697151"
+        },
+        {
+          "path": "unit-infantry.glb",
+          "size": 50948,
+          "sha256": "074e445811c14286ad531c66c293d9a257e271329bea8481c14060f6ffda7cf9"
+        },
+        {
+          "path": "unit-quadruped.glb",
+          "size": 62528,
+          "sha256": "8b595eebbe716e552c8aa58afa08ea502a4f1cae9a08e9f026f6ea33d9de1144"
+        },
+        {
+          "path": "unit-rifle.glb",
+          "size": 50936,
+          "sha256": "e1badf3d35b494ae8e798784597e613ef3a78b816d21c3c8f57345ff5fa0b6d4"
+        }
+      ]
+    },
+    {
+      "id": "lancer/forge-mechs",
+      "title": "LANCER 机甲模型 · 七架 CC0",
+      "rules": [
+        "lancer"
+      ],
+      "license": "CC0 1.0 · Ramon Linares",
+      "version": 1,
+      "target": "assets/3d/lancer-kit",
+      "bytes": 47811322,
+      "files": [
+        {
+          "path": "forge-aether-02.glb",
+          "size": 5993000,
+          "sha256": "f51e056f9609897fe1fe3e5ab5428ab4b8ef785924eb754017f0d1ad8b2a7725"
+        },
+        {
+          "path": "forge-atlas-09.glb",
+          "size": 6868908,
+          "sha256": "8a5e42923b4f32d283cb021ea58a9b4bc22120d376f15833f66d67ea6d0abc05"
+        },
+        {
+          "path": "forge-ronin-04.glb",
+          "size": 7598996,
+          "sha256": "12b9b8b8819ea471cde1ba453cd60b9a2321af4f123c87d6ef9c0384c7dfa5da"
+        },
+        {
+          "path": "forge-scorpio-05.glb",
+          "size": 7752412,
+          "sha256": "ec5b999609e55538a7d55d1aceae84caaf3a44eea600ec30d5ca99b2dc123ab8"
+        },
+        {
+          "path": "forge-seraph-03.glb",
+          "size": 7034264,
+          "sha256": "a6175aaf5eaa08659a2bcaba308ead2dfb53f8387f75d9bee245ba045910c1c1"
+        },
+        {
+          "path": "forge-titan-06.glb",
+          "size": 5978600,
+          "sha256": "c782b1679a80725cf83daf2043d507f838f920ad2acec90215ca118262544b7e"
+        },
+        {
+          "path": "forge-vanguard-07.glb",
+          "size": 6583080,
+          "sha256": "54416bb662c2dd9d6b847a611cd5bbad4013dd721d999cde38aeab18e1cd628f"
+        },
+        {
+          "path": "LICENSE.md",
+          "size": 2062,
+          "sha256": "01a882e832c7b43a78cd468efaf903b4969b85db754d3f9978d0b243bd649126"
+        }
+      ]
+    }
+  ]
+}
